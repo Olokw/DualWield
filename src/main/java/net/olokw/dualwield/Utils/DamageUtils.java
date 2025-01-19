@@ -1,13 +1,11 @@
 package net.olokw.dualwield.Utils;
 
-import org.bukkit.NamespacedKey;
 import org.bukkit.Sound;
 import org.bukkit.attribute.Attribute;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.entity.LivingEntity;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
-import org.bukkit.inventory.meta.tags.ItemTagType;
 
 public class DamageUtils {
     public double calculateDamage(LivingEntity livingEntity, double damage) {

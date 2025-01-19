@@ -1,7 +1,8 @@
 package net.olokw.dualwield;
 
 import net.olokw.dualwield.Utils.ItemsConfig;
-import org.bukkit.*;
+import org.bukkit.Bukkit;
+import org.bukkit.Material;
 import org.bukkit.configuration.file.YamlConfiguration;
 
 import java.io.File;
