@@ -1,0 +1,8 @@
+name: DualWield
+version: '1.0-SNAPSHOT'
+main: net.olokw.dualwield.DualWield
+api-version: '1.20'
+commands:
+  dualwieldreload:
+    description: recarrega a items.yml
+    usage: /<command>

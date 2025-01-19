@@ -1,0 +1,18 @@
+exemploA:
+  unbreakable: false
+  tem-model-data: false
+  material: WOODEN_SWORD
+  damage: 4 # dano que o item vai aplicar por padrão, podendo ser modificado com sharpness
+  true-damage: false # vai ignorar defesa?
+  cooldown: 5 # cooldown entre cada hit de mão esquerda
+  delay: 5 # delay em ticks que vai aguardar antes de efetuar o ataque
+
+exemploB:
+  unbreakable: true
+  tem-model-data: true
+  model-data: 69
+  material: IRON_SWORD
+  damage: 7
+  true-damage: false
+  cooldown: 4
+  delay: 5

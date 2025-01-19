@@ -1,0 +1,7 @@
+name: DualWield
+version: '${project.version}'
+main: net.olokw.dualwield.DualWield
+api-version: '1.20'
+commands:
+  dualwieldreload:
+    usage: /<command>

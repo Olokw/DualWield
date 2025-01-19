@@ -1,0 +1,11 @@
+net\olokw\dualwield\DualWield.class
+net\olokw\dualwield\Listeners.class
+net\olokw\dualwield\Events\Damage$1.class
+net\olokw\dualwield\Events\Damage.class
+net\olokw\dualwield\Managers\ItemsManager.class
+net\olokw\dualwield\ItemsLoader.class
+net\olokw\dualwield\Utils\ItemsConfig.class
+net\olokw\dualwield\Utils\DamageUtils.class
+net\olokw\dualwield\Commands\DualWieldReload.class
+net\olokw\dualwield\Managers\CooldownManager$1.class
+net\olokw\dualwield\Managers\CooldownManager.class

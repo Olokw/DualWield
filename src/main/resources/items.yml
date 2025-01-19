@@ -1,0 +1,18 @@
+exampleA:
+  unbreakable: false
+  tem-model-data: false
+  material: WOODEN_SWORD
+  damage: 4 # Damage that the item will deal by default, which can be modified with sharpness.
+  true-damage: false # Will ignore the target defense?
+  cooldown: 5 # Cooldown (in ticks) between each offhand hit.
+  delay: 5 # Delay (in ticks) that will wait before executing the attack.
+
+exampleB:
+  unbreakable: true
+  tem-model-data: true
+  model-data: 69
+  material: IRON_SWORD
+  damage: 7
+  true-damage: false
+  cooldown: 4
+  delay: 5
